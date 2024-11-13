@@ -1,0 +1,3 @@
+networks:
+  smis-system:
+    driver: bridge
